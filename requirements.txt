@@ -1,0 +1,12 @@
+flasgger
+flask
+flask-cors
+flask-jwt-extended
+flask-login
+flask-session
+dotenv
+pony
+psycopg2-binary
+requests
+redis
+werkzeug
